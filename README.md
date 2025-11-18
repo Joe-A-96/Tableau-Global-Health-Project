@@ -31,6 +31,26 @@ This project showcases expertise in data modeling, advanced geographic visualiza
 * **Time Series Visualizations:** Built effective line and area charts to illustrate health **trends over time**.
 * **Comparative Charts:** Designed visualizations (e.g., bar charts, rank charts) for easy comparison of metrics across different entities.
 
+### Visualisations 
+
+* **Life expectancy by Continent** used to show the average life expectancy by continent
+<img width="736" height="1130" alt="image" src="https://github.com/user-attachments/assets/f23ab7b7-f380-4bea-af3e-f0911d04fb9e" />
+
+* **Life expectancy trend by Country** used to show the average life expectancy by Country
+<img width="737" height="1134" alt="image" src="https://github.com/user-attachments/assets/05299f24-875b-485f-a467-10e5770c700f" />
+
+* **Populatiion by Gender by Countries** used to show the population percentage by gender via Countries
+<img width="731" height="1008" alt="image" src="https://github.com/user-attachments/assets/613f2309-a153-4377-94cd-9eb87bf95254" />
+
+* **Life expectancy Vs BMI** used to compare the average life expectancy and the average BMI in each country
+<img width="739" height="794" alt="image" src="https://github.com/user-attachments/assets/dde1c60a-19d5-4252-8425-b23318a39b6c" />
+
+* **Average Continent Growth** used to show the Average each continent has grown by
+<img width="730" height="307" alt="image" src="https://github.com/user-attachments/assets/6cfd318a-8be6-4d5e-b95d-b6122e443f33" />
+
+
+
+
 ### Interactivity & Dynamic Design
 
 * **Calculated Fields:** Created custom public health metrics and rates (e.g., per capita spending, growth rates).
@@ -41,11 +61,5 @@ This project showcases expertise in data modeling, advanced geographic visualiza
 
 ***
 
-## 📂 Project File and Requirements
-
-This project is packaged as a Tableau Workbook, which contains the data connection, all sheets, and the final dashboard.
-
-| File Name | Description |
-| :--- | :--- |
-| `Global Health Dashboard.twbx` | The complete, packaged Tableau workbook containing all sheets and the final interactive dashboard. |
-
+**Link to my Dashboard**
+[Link to my Dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17604441051750/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
