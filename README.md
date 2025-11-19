@@ -1,5 +1,3 @@
-# Tableau-Global-Health-Project
-
 ## 🌍 Global Health Trends and Comparative Analysis (Tableau)
 
 **An interactive data visualization dashboard built in Tableau to explore, analyze, and compare key public health indicators and trends across various countries and regions worldwide.**
